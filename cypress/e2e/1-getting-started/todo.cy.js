@@ -11,7 +11,7 @@
 // please read our getting started guide:
 // https://on.cypress.io/introduction-to-cypress
 
-context('Test AGILTOO ', () => {
+context('Test AGILTOO', () => {
 describe('example to-do app', () => {
   beforeEach(() => {
     // Cypress starts out with a blank slate for each test
